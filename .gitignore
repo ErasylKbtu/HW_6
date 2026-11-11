@@ -1,0 +1,13 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.DS_Store
+*.local
+
+# Environment files and local Firebase tooling
+.env
+.env.*
+!.env.example
+.firebase/
+*-debug.log
